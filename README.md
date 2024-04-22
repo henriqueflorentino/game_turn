@@ -17,6 +17,12 @@ Para jogar basta utilizar os comandos:
 
 >A cada turno do KONG logo em seguida o GODZILLA realiza seu turno, podendo utilizar qualquer uma das mesmas ações de KONG. Do lado dos CARDS dos personagens possui um historico de turnos que mostra o andamento da partida e assim que a vida de um dos dois chega a zero a partida acaba.
 
+### 👾 Confira o jogo!
+> Para dispostivos Mobile e Desktop
+
+[Kong VS Godzilla || Clique para jogar!](https://kongvsgodzilla.netlify.app/)
+
+
 ### 🎬 Gameplay do jogo:
 
 https://github.com/henriqueflorentino/game_turn/assets/94813609/beaf39db-ad4e-4c21-a371-7fd783a20719
